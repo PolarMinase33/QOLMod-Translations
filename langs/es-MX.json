@@ -23,6 +23,15 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 11
+        },{
+            "username": "PolarMinase",
+            "account-id": 19692545,
+            "icon-id": 485,
+            "primary-col": 12,
+            "secondary-col": 17,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 11
         }
     ],
     "strings": {
@@ -304,7 +313,8 @@
             "trail-cutting": "Cortar Camino",
             "trail-cutting/fps": "Actualizar FPS:",
             "all-plat": "Todo en Plataforma",
-            "autoclicker": "Autoclicker"
+            "autoclicker": "Autoclicker",
+            "tps-bypass": "Bypass de Físicas"
         },
         "descriptions": {
             "create-custom-rewards": "Genera un premio que puedes customizar.",
