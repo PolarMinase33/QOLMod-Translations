@@ -113,7 +113,7 @@
             "title": "Créditos de los idiomas",
             "warning": {
                "title": "Nota",
-                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+                "text": "Los contribuidores <cr>no</c> son los desarrolladores del <co>QOLmod</c>, ellos <cr>no</c> añaden nuevas características o corregir fallos.\nPorfavor <cr>no</c>contacte a los traductores a arreglar los fallos"
             }
         },
         "speedhack":{
