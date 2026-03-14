@@ -1,7 +1,7 @@
 {
     "display_name_english": "Spanish",
     "display_name_native": "Español",
-    "fallback-lang": "",
+    "fallback-lang": "en-AU.json",
     "font": "lexend.fnt",
     "alt-font-usage": "Forced",
     "contributors": [
