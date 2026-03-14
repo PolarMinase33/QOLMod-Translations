@@ -67,7 +67,9 @@
             "safe-mode-view-reason-button": "Mirar Razón",
             "export-to-file-button": "Exportar a archivo.",
             "import-from-file-button": "Importar desde archivo.",
-            "language-contributors-button": "Ver contribuidores"
+            "language-contributors-button": "Ver contribuidores",
+            "language-missing-unfinished": "Falta un idioma/No está terminado?",
+            "language-contribute-button": "Contribuir!"
         },
         "colour-setup": {
             "title": "Seleccionar Color",
