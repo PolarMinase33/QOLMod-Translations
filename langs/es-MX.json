@@ -55,13 +55,15 @@
         "input-hints": {
             "seconds": "seg",
             "semitones": "semitones",
-            "fps": "fps"
+            "fps": "fps",
+            "percentage": "%",
+            "tps": "tps"
         },
         "ui": {
             "coming-soon": "Muy Pronto",
             "themes-edit-button": "Editar Colores",
-            "ok-button": "<bm>OK",
-            "default-button": "Por Defecto",
+            "ok-button": "OK",
+            "default-button": "Predeterminado",
             "undo-button": "Deshacer",
             "change-font-button": "Cambiar Fuente",
             "safe-mode-view-reason-button": "Mirar Razón",
@@ -69,7 +71,16 @@
             "import-from-file-button": "Importar desde archivo.",
             "language-contributors-button": "Ver contribuidores",
             "language-missing-unfinished": "Falta un idioma/No está terminado?",
-            "language-contribute-button": "Contribuir!"
+            "language-contribute-button": "Contribuir!",
+            "cancel-button": "Cancelar",
+            "confirm-button": "Confirmar",
+            "notification-mod-enabled": "Activado",
+            "notification-mod-disabled": "Desactivado",
+            "notification-button-pressed: "",
+            "notification-speedhack-set": "Configurar",
+            "notification-test": "Prueba",
+            "title-error": "Error",
+            "themes-themes-edit-image-button": ""
         },
         "colour-setup": {
             "title": "Seleccionar Color",
@@ -81,7 +92,11 @@
             "chroma": "Croma",
             "pastel": "Pastel",
             "gradient": "Gradiente",
-            "colour-hint": "Color:"
+            "colour-hint": "Color:",
+            "effect-speed": "Velocidad del efecto",
+            "red": "R",
+            "green": "G",
+            "blue": "B"
         },
         "extra-theme-settings": {
             "title": "Editar Colores de Gradientes"
