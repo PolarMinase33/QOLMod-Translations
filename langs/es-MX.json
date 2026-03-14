@@ -131,6 +131,10 @@
             "korean-supported": "Está fuente apoya la escritura Hangul (Coreano)",
             "chinese-supported": "Está fuente apoya la escritura Hanzi (Chino)"
         },
+        "create-custom-reward":{
+            "first-use-warning": "<cr>Advertencia</c>\El uso de esta herramienta puede editar permanentemente tu archivo de guardado, lo que provocará un baneo de las clasificaciones.\n</cl>Úsalo mediante tu propio riesgo</c>",
+            "create-button": "Crear"
+},
         "labels": {
             "cheat-indicator-label": "Indicador de trampa",
             "noclip-only-label": "Solo Noclip",
