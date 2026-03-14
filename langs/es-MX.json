@@ -179,12 +179,12 @@
             }
         },
         "uncomplete-level":{
-            "no-level-found": "Nivel <cc>no</c> encontrado, intenta abrir la <cc>página del nivel</c>.",
+            "no-level-found": "Nivel <cc>no</c> encontrado, intenta abrir la <cc>página del nivel</c>",
             "found-confirmation": "Estas seguro de que quieres descompletar <cc>%s</c>.\nEsto <cr>no se puede deshacer</c>",
             "wrong-type-confirmation": "Tipo de nivel no soportado <cc>%s</c>"
         },
         "clone-level":{
-            "success": "Nivel duplicado <cg>con éxito</c>!"
+            "success": "Nivel duplicado <cg>con éxito</c>"
         },
         "iconic":{
             "dual-mode-invert": "Invertir",
@@ -198,7 +198,7 @@
             "override-wave-trail-label": "Sobreescribir Camino de Ola",
             "override-fine-outline-label": "Sobreescribir Borde Fino",
             "seperate-label": "Separar Colores",
-            "fine-outline-misiing-error": "Requiere que el mod <cc>Fine Outline</c> hecho por <cp>Alphaneous</c> este instalado.",
+            "fine-outline-misiing-error": "Requiere que el mod <cc>Fine Outline</c> por <cp>Alphaneous</c> este instalado.",
             "profiles-title": "Perfil de Efectos"
         },
         "names": {
