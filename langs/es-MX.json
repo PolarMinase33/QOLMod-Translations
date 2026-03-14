@@ -96,7 +96,8 @@
             "effect-speed": "Velocidad del efecto",
             "red": "R",
             "green": "G",
-            "blue": "B"
+            "blue": "B",
+            "hex": "HEX"
         },
         "extra-theme-settings": {
             "title": "Editar Colores de Gradientes"
