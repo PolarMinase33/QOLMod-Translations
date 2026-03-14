@@ -132,7 +132,7 @@
             "chinese-supported": "Está fuente apoya la escritura Hanzi (Chino)"
         },
         "create-custom-reward":{
-            "first-use-warning": "<cr>Advertencia</c>\nEl uso de esta herramienta puede editar permanentemente tu archivo de guardado, lo que provocará un baneo de las clasificaciones.\n</cl>Úsalo mediante tu propio riesgo</c>",
+            "first-use-warning": "<cr>Advertencia</c>.\nEl uso de esta herramienta puede editar permanentemente tu archivo de guardado, lo que provocará un baneo de las clasificaciones.\n</cl>Úsalo mediante tu propio riesgo</c>",
             "create-button": "Crear"
         },
         "labels": {
