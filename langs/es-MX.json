@@ -303,6 +303,8 @@
             "no-particles-adv/teleport-portal-particles": "Partículas de portales de teletransportación",
             "trail-cutting": "Cortar Camino",
             "trail-cutting/fps": "Actualizar FPS:"
+            "all-plat": "Todo en Plataforma"
+            "autoclicker": "Autoclicker"
         },
         "descriptions": {
             "create-custom-rewards": "Genera un premio que puedes customizar.",
