@@ -57,7 +57,8 @@
             "semitones": "semitones",
             "fps": "fps",
             "percentage": "%",
-            "tps": "tps"
+            "tps": "tps",
+            "cps": "cps"
         },
         "ui": {
             "coming-soon": "Muy Pronto",
@@ -72,15 +73,16 @@
             "language-contributors-button": "Ver contribuidores",
             "language-missing-unfinished": "Falta un idioma/No está terminado?",
             "language-contribute-button": "Contribuir!",
+            "language-options-title": "Configuración del idioma",
             "cancel-button": "Cancelar",
             "confirm-button": "Confirmar",
             "notification-mod-enabled": "%s Activado",
             "notification-mod-disabled": "%s Desactivado",
-            "notification-button-pressed": "%s Presionado",
-            "notification-speedhack-set": "Configurar Speedhack %s de la notificación",
-            "notification-test": "Prueba :3",
+            "notification-button-pressed": "%s Encendido",
+            "notification-speedhack-set": "Configurar Speedhack %s a",
+            "notification-test": "Está es una notificación de prueba :3",
             "title-error": "Error",
-            "themes-themes-edit-image-button": ""
+            "themes-themes-edit-image-button": "Editar Imagen"
         },
         "colour-setup": {
             "title": "Seleccionar Color",
@@ -100,7 +102,8 @@
             "hex": "HEX"
         },
         "extra-theme-settings": {
-            "title": "Editar Colores de Gradientes"
+            "title": "Editar Colores de Gradientes",
+            "title-image": "Editar imagen de fondo"
         },
         "edit-keybind-ui": {
             "title": "Editar Keybind",
@@ -110,8 +113,16 @@
             "title": "Créditos de los idiomas"
                   "warning": {
         "title": "Nota",
-        "text": ""
+        "text": "Los contribuidores <cr>no</c> son los desarrolladores del <co>QOLmod</c>, ellos <cr>no</c> añaden nuevas características o corregir fallos.\nPorfavor <cr>no</c>contacte a los traductores a arreglar los fallos"
                   }
+        },
+        "speedhack":{
+            "speed-label": "Velocidad",
+            "delete-hint": "Toca para removerlo",
+            "add-preset-exist":{
+                "title": "Valores de Speedhack",
+                "text": "Ya existe un ajuste preestablecido con el valor <cc>%s</c>"
+            }
         },
         "font-select": {
             "title": "Seleccionar Fuente",
