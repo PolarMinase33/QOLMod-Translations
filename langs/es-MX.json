@@ -128,7 +128,8 @@
             "override-trail-label": "Sobreescribir Camino",
             "override-ghost-label": "Sobreescribir Fantasma",
             "override-wave-trail-label": "Sobreescribir Camino de Ola",
-            "override-fine-outline-label": "Sobreescribir Borde Fino"
+            "override-fine-outline-label": "Sobreescribir Borde Fino",
+            "separate-label": "Separar Color"
         },
         "names": {
             "create-custom-rewards": "Crea Premios Customizados",
