@@ -114,7 +114,7 @@
                   "warning": {
         "title": "Nota",
         "text": "Los contribuidores <cr>no</c> son los desarrolladores del <co>QOLmod</c>, ellos <cr>no</c> añaden nuevas características o corregir fallos.\nPorfavor <cr>no</c>contacte a los traductores a arreglar los fallos"
-                  }
+           }
         },
         "speedhack":{
             "speed-label": "Velocidad",
