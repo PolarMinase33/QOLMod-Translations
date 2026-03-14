@@ -184,7 +184,7 @@
             "wrong-type-confirmation": "Tipo de nivel no soportado <cc>%s>/c>"
         },
         "clone-level":{
-            "success": "Nivel duplicado <cg>con éxito</c>!"
+            "success": "Nivel duplicado <cg>con éxito</c>"
         },
         "iconic":{
             "dual-mode-invert": "Invertir",
