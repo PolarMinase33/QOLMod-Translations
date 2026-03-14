@@ -108,6 +108,10 @@
         },
         "language-credits": {
             "title": "Créditos de los idiomas"
+                  "warning": {
+        "title": "Nota",
+        "text": "El traductor no es el desarrollador del<cr>QOLMod</c>No puede añadir funciones<cr>ni corregir errores</c>.\nPorfavor<cr>no contacte</c>\con el traductor<cr>para solicitar correcciones de errores.</c>"
+                  }
         },
         "font-select": {
             "title": "Seleccionar Fuente",
