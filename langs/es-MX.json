@@ -148,7 +148,7 @@
             "input-placeholder": "Rotación",
             "input-title": "Rotación"
         },
-        "setup-shortcut" {
+        "setup-shortcut": {
             "title": "Editar Acceso Directo",
             "in-menu": "En el Menú",
             "in-game": "En el Juego",
