@@ -414,6 +414,9 @@
             "no-rot/spider": "Araña",
             "no-rot/swing": "Swing",
             "no-invisible-objects": "Sin Objetivos translúcidos",
+            "hide-editor-ui": "Ocultar interfaz",
+            "fast-end-screen": "Pantalla final rápida",
+            "popup-ui-scale": "Escala de la UI"
         },
         "descriptions": {
             "create-custom-rewards": "Genera un premio que puedes customizar.",
