@@ -706,7 +706,7 @@
             "pitch-shifter/high-quality": "Mejora la Calidad del tono del audio, desactiva esto si presentas problemas de rendimiento",
             "fast-chests": "Muestra en unos segundos el botón para reclamar recompensas en los cofres",
             "reset-percentage-on-save": "Reinicia el porcentaje al guardar un cambio en un nivel",
-            "high-fps-rotation": "Emula el comportamiento de la nave y el swing si juegas a mas de 1000 FPS".
+            "high-fps-rotation": "Emula el comportamiento de la nave y el swing si juegas a mas de 1000 FPS",
             "accurate-spike-hitboxes": "Hace que las Hitboxes del pinchó sean un triángulo (Prácticamente las hitboxes del pinchó se volverán legales)",
             "all-plat": "Forza a los Vehículos no compatibles a estar en modo plataforma",
             "high-quality-circles": "Hace efectos circulares (como reaparecer y tocar orbes) suaves",
