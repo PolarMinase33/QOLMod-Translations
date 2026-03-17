@@ -409,7 +409,7 @@
             "no-circles-adv/size-portal-touch": "Portal de Tamaño",
             "no-orb-pulse/size": "Tamaño del pulso",
             "no-shake": "Sin Shakes de Cámara",
-            "longer-trail": "Camino Mas Largo",
+            "longer-trail": "Estela Mas Larga",
             "longer-trail/player-only": "Solo en Jugador",
             "hide-percent-after-complete": "Esconder Porcentaje despues de completación",
             "trail-off": "Forzar el no camino",
@@ -655,11 +655,11 @@
             "longer-trail": "Extiende la longitud de la estela del jugador a un factor de 3x.",
             "longer-trail/player-only": "Hace que la estela del jugador sea larga, sin importar la velocidad que se encuentra.",
             "hide-percent-after-complete": "Desaparece la barra de progreso y el porcentaje al completar un nivel.",
-            "trail-off": "Fuerza el camino a estar siempre desactivado.",
-            "trail-off/wave-only": "Fuerza la desactivación de los caminos a solo en el Wave.",
-            "trail-on": "Fuerza el camino a estar siempre activado.",
-            "ghost-off": "Fuerza el camino del fantasma a siempre estar desactivado.",
-            "ghost-on": "Fuerza el camino del fantasma a siempre estar activado.",
+            "trail-off": "Fuerza la estela a estar siempre desactivada.",
+            "trail-off/wave-only": "Fuerza la desactivación de las estelas a solo en el Wave.",
+            "trail-on": "Fuerza la estela a estar siempre activada.",
+            "ghost-off": "Fuerza la estela fantasma a siempre estar desactivado.",
+            "ghost-on": "Fuerza la estela fantasma a siempre estar activado.",
             "gradient-bg/end-colour": "Color Final del BG Gradiente",
             "gradient-bg/start-colour": "Color Inicial del BG Gradiente",
             "use-:3-button": "Cambia el botón con \">_\" a estar con \":3\"",
@@ -707,6 +707,8 @@
             "autoclicker/player2": "Habilita el Autoclicker al Jugador 2",
             "autoclicker/player1/swift": "Clicks por solo 1 tick",
             "autoclicker/player2/swift": "Clicks por solo 1 tick",
+            "preload-language-font": "Precarca la tipografía establecida en el idioma para el juego\nManten esto activado para prevenir picos de lag al abrir QOLMod",
+            "temp-load-language": "Importa de manera temporal un idioma para testear",
             "pitch-shifter/high-quality": "Mejora la Calidad del tono del audio, desactiva esto si presentas problemas de rendimiento",
             "fast-chests": "Muestra en unos segundos el botón para reclamar recompensas en los cofres",
             "reset-percentage-on-save": "Reinicia el porcentaje al guardar un cambio en un nivel",
@@ -728,7 +730,8 @@
             "zoom-pause-menu/zoom-with-touch": "Usa 2 dedos haciendo un pellizco en la pantalla para hacer zoom",
             "zoom-pause-menu/allow-panning": "Permite desplazarse por la pantalla cuando haces zoom",
             "zoom-pause-menu/no-zoom-limit": "Rompe el límite del zoom",
-            "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual"
+            "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual",
+            "solid-wave/preserve-center": "Centra la Estela pulsante del Wave a la hora de pilotarlo"
         }
     }
 }
