@@ -541,6 +541,8 @@
             "show-hitboxes/hazard-colour": "Peligros",
             "show-hitboxes/solid-colour": "Solidos",
             "show-hitboxes-on-death": "Solo muestra las hitbox cuando mueres.",
+            "show-hitboxes-on-death/death-object-only": "Muestra solamente el objeto causante de tu muerte",
+            "show-hitboxes-on-death/trail": "Muestra la estela de hitbox cuando mueres",
             "no-particles-adv": "Desactiva solo ciertas particulas del juego que tu desees.",
             "no-particles-adv/dash-orb-particles": "Desactiva las particulas cuando usas una orbe dash.",
             "no-particles-adv/coin-particles": "Desactiva particulas en objetos de colección. Por ejemplo: Monedas.",
@@ -647,6 +649,7 @@
             "no-glow": "Desactiva el glow en los niveles. Requiere salirse del nivel para que pueda hacer su efecto.",
             "no-death": "Desactiva el efecto de muerte en tu jugador.",
             "no-dash-fire": "Esconde el fuego detrás de tu jugador al momento de estar usando una dash orbe.",
+            "no-circles-adv": "Permite elegir que efectos circulares de ciertos objetos desactivar",
             "no-circles": "Desactiva efectos de circulo. Por ejemplo cuando pasas encima de una orbe.",
             "no-shake": "Desactiva el agitó de Cámara.",
             "longer-trail": "Extiende la longitud de la estela del jugador a un factor de 3x.",
@@ -692,6 +695,7 @@
             "no-invisible-objects": "Forza los objetos translúcidos a estar solidos",
             "hitbox-trail/click-colours": "Cambia el color de la estela de Hitbox al clickear",
             "hitbox-trail/hold-click-colours": "Cambia el color de la estela de Hitbox al mantener el click",
+            "hitbox-trail/no-limit": "La estela de hitbox no tendrá fin",
             "main-level-bypass": "Desbloquea los niveles principales",
             "custom-obj-limit": "Permite sobrepasar el límite al crear objetos personalizados",
             "hide-editor-ui": "Oculta la interfaz del editor",
@@ -712,7 +716,19 @@
             "high-quality-circles": "Hace efectos circulares (como reaparecer y tocar orbes) suaves",
             "transition-customiser": "Permite Cambiar de Transición",
             "paint": "Muestra una herramienta que te permite dibujar",
-            "no-editor-zoom-limit": "Puedes hacer Zoom Infinitamente en el editor"
+            "no-editor-zoom-limit": "Puedes hacer Zoom Infinitamente en el editor",
+            "no-circles-adv/orb-touch": "Desactiva el efecto circular (anillar) cuando tocas una orbe",
+            "no-circles-adv/orb-click": "Desactiva el efecto circular al clickear una orbe",
+            "no-circles-adv/pad-touch": "Desactiva el efecto circular al tocar un pad",
+            "no-circles-adv/gravity-portal-touch": "Desactiva el efecto circular al tocar un portal de gravedad",
+            "no-circles-adv/gamemode-portal-touch": "Desactiva el efecto circular al tocar un portal de vehículo",
+            "no-circles-adv/size-portal-touch": "Desactiva el efecto circular al tocar un portal de tamaño",
+            "zoom-pause-menu": "Puedes hacer zoom en el menú de pausa",
+            "zoom-pause-menu/zoom-with-scroll": "Usa la rueda del ratón para realizar zoom",
+            "zoom-pause-menu/zoom-with-touch": "Usa 2 dedos haciendo un pellizco en la pantalla para hacer zoom",
+            "zoom-pause-menu/allow-panning": "Permite desplazarse por la pantalla cuando haces zoom",
+            "zoom-pause-menu/no-zoom-limit": "Rompe el límite del zoom",
+            "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual"
         }
     }
 }
