@@ -198,7 +198,7 @@
             "override-wave-trail-label": "Sobreescribir Camino de Ola",
             "override-fine-outline-label": "Sobreescribir Borde Fino",
             "seperate-label": "Separar Colores",
-            "fine-outline-misiing-error": "Requiere que el mod <cc>Fine Outline</c> por <cp>Alphaneous</c> este instalado.",
+            "fine-outline-missing-error": "Requiere que el mod <cc>Fine Outline</c> por <cp>Alphaneous</c> este instalado.",
             "profiles-title": "Perfil de Efectos"
         },
         "enums":{
