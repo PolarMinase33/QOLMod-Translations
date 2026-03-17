@@ -493,8 +493,8 @@
             "temp-load-language": "Importar Archivo",
             "accurate-spike-hitboxes": "Hitboxes Precisas",
             "paint": "Pincel",
-            "transition-customizer": "Customizador de Transiciones",
-            "transition-customizer/duration": "Duración",
+            "transition-customiser": "Customizador de Transiciones",
+            "transition-customiser/duration": "Duración",
             "no-editor-zoom-limit": "Sin Límite de Zoom",
             "high-quality-circles": "Círculos de Alta Calidad"
         },
@@ -710,7 +710,7 @@
             "accurate-spike-hitboxes": "Hace que las Hitboxes del pinchó sean un triángulo (Prácticamente las hitboxes del pinchó se volverán legales)",
             "all-plat": "Forza a los Vehículos no compatibles a estar en modo plataforma",
             "high-quality-circles": "Hace efectos circulares (como reaparecer y tocar orbes) suaves",
-            "transition-customizer": "Permite Cambiar de Transición",
+            "transition-customiser": "Permite Cambiar de Transición",
             "paint": "Muestra una herramienta que te permite dibujar",
             "no-editor-zoom-limit": "Puedes hacer Zoom Infinitamente en el editor"
         }
