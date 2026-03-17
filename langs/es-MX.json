@@ -516,10 +516,18 @@
             "safe-mode": "Inhabilita el progreso en niveles.",
             "safe-mode/text": "Texto del Modo Seguro.",
             "safe-mode/change-text": "Cambia el texto de la pantalla final para hacerlo mas obvio.",
+            "safe-mode/end-screen-cheat-indicator": "Muestra en la pantalla final un ícono que cambiará si usaste trucos o si activaste el modo seguro",
+            "safe-mode/disable-cheats-ui": "Incapacita activar trucos ilegales, ejemplo: el noclip",
             "noclip": "Hace que el jugador sea inmortal.",
             "noclip/tint-colour": "Color del tinte",
             "noclip/tint-opacity": "Opacidad del tinte",
             "noclip/tint-on-death": "Pone tinta sobre la pantalla cuando mueres.",
+            "noclip/player1": "Aplica el Noclip al Jugador 1",
+            "noclip/player2": "Aplica el Noclip al Jugador 2",
+            "noclip/player1/use-max-deaths": "Define un límite de muertes en el Noclip para morir realmente",
+            "noclip/player2/use-max-deaths": "Define un límite de muertes en el Noclip para morir realmente",
+            "noclip/player1/use-min-accuracy": "Define un límite de precisión en el Noclip",
+            "noclip/player2/use-min-accuracy": "Define un límite de precisión en el Noclip",
             "show-touches": "Muestra un circulo cuando tocas y la posición en donde lo hiciste.",
             "show-touches/trail-colour": "Color de estela del toque.",
             "show-touches/circle-colour": "Color circular del toque.",
@@ -731,7 +739,8 @@
             "zoom-pause-menu/allow-panning": "Permite desplazarse por la pantalla cuando haces zoom",
             "zoom-pause-menu/no-zoom-limit": "Rompe el límite del zoom",
             "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual",
-            "solid-wave/preserve-center": "Centra la Estela pulsante del Wave a la hora de pilotarlo"
+            "solid-wave/preserve-center": "Centra la Estela pulsante del Wave a la hora de pilotarlo",
+            "tps-bypass": "Permite desbloquear el límite de físicas y ser mas precisos"
         }
     }
 }
