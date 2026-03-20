@@ -499,7 +499,7 @@
             "high-quality-circles": "Círculos de Alta Calidad"
         },
         "descriptions": {
-            "create-custom-rewards": "Genera un premio que puedes customizar.",
+            "create-custom-reward": "Genera un premio que puedes customizar.",
             "shortcut/open-graphics-settings":"Abre las opciones de graficos del juego.",
             "shortcut/toggle-practice": "Activa/Desactiva el modo practica.",
             "shortcut/uncomplete-level": "Elimina todo el progreso de un nivel.",
