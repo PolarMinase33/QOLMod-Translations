@@ -493,10 +493,18 @@
             "temp-load-language": "Importar Archivo",
             "accurate-spike-hitboxes": "Hitboxes Precisas",
             "paint": "Pincel",
+            "paint/vertical-control": "Controles Verticales",
             "transition-customiser": "Customizador de Transiciones",
             "transition-customiser/duration": "Duración",
             "no-editor-zoom-limit": "Sin Límite de Zoom",
-            "high-quality-circles": "Círculos de Alta Calidad"
+            "high-quality-circles": "Círculos de Alta Calidad",
+            "show-trajectory": "Mostrar Trayectoria",
+            "show-trajectory/player1": "Jugador 1",
+            "show-trajectory/player2": "Jugador 2",
+            "show-trajectory/player1/hold-colour": "Color de Trayectoria (Mantener)",
+            "show-trajectory/player2/hold-colour": "Color de Trayectoria (Mantener)",
+            "show-trajectory/player1/release-colour": "Color de Trayectoria (Soltar)",
+            "show-trajectory/player2/release-colour": "Color de Trayectoria (Soltar)"
         },
         "descriptions": {
             "create-custom-reward": "Genera un premio que puedes customizar.",
@@ -726,6 +734,7 @@
             "high-quality-circles": "Hace efectos circulares (como reaparecer y tocar orbes) suaves",
             "transition-customiser": "Permite Cambiar de Transición",
             "paint": "Muestra una herramienta que te permite dibujar",
+            "paint/vertical-control": "Muestra las herramientasde dibujo verticalmente",
             "no-editor-zoom-limit": "Puedes hacer Zoom Infinitamente en el editor",
             "no-circles-adv/orb-touch": "Desactiva el efecto circular (anillar) cuando tocas una orbe",
             "no-circles-adv/orb-click": "Desactiva el efecto circular al clickear una orbe",
@@ -740,7 +749,10 @@
             "zoom-pause-menu/no-zoom-limit": "Rompe el límite del zoom",
             "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual",
             "solid-wave/preserve-center": "Centra la Estela pulsante del Wave a la hora de pilotarlo",
-            "tps-bypass": "Permite desbloquear el límite de físicas y ser mas precisos"
+            "tps-bypass": "Permite desbloquear el límite de físicas y ser mas precisos",
+            "show-trajectory": "Muestra mediante lineas artificiales la trayectoria a la que se dirige el jugador",
+            "show-trajectory/player1": "Muestra la trayectoria al Jugador 1",
+            "show-trajectory/player2": "Muestra la trayectoria al Jugador 2"
         }
     }
 }
