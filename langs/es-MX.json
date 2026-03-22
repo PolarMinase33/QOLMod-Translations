@@ -64,7 +64,7 @@
             "coming-soon": "Muy Pronto",
             "themes-edit-button": "Editar Colores",
             "ok-button": "OK",
-            "crash-confirmation": "Estas seguro de cerrar el juego?",
+            "crash-confirmation": "Estas <cc>seguro</c> de <cr>cerrar</c> el juego?\nEsto <cr>NO</c> guardará tu progreso",
             "default-button": "Predeterminado",
             "undo-button": "Deshacer",
             "change-font-button": "Cambiar Fuente",
