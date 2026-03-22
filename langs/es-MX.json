@@ -750,6 +750,7 @@
             "zoom-pause-menu/zoom-with-touch": "Usa 2 dedos haciendo un pellizco en la pantalla para hacer zoom",
             "zoom-pause-menu/allow-panning": "Permite desplazarse por la pantalla cuando haces zoom",
             "zoom-pause-menu/no-zoom-limit": "Rompe el límite del zoom",
+            "hitbox-trail/darken-by-age": "Oscurece la estela de Hitboxes",
             "zoom-pause-menu/show-controls": "Muestra unos controles en la parte inferior izquierda para un zoom manual",
             "solid-wave/preserve-center": "Centra la Estela pulsante del Wave a la hora de pilotarlo",
             "tps-bypass": "Permite desbloquear el límite de físicas y ser mas precisos",
