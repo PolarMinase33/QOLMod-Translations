@@ -221,7 +221,7 @@
             "kCCTransitionMoveInL": "Mover desde la Izquierda",
             "kCCTransitionMoveInR": "Mover desde la derecha",
             "kCCTransitionRotoZoom": "Girar Zoom",
-            "kCCTransitionShirinkGrow": "Agrandar",
+            "kCCTransitionShrinkGrow": "Agrandar",
             "kCCTransitionSlideInT": "Deslizar desde Arriba",
             "kCCTransitionSlideInB": "Deslizar desde Abajo",
             "kCCTransitionSlideInL": "Deslizar desde la Izquierda",
